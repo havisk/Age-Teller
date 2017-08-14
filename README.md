@@ -1,3 +1,17 @@
+# App that tells your Age.  Just enter the date you were born.
+
+## App URL
+- http://whatsmyage.surge.sh/
+
+## Tech
+
+- React
+- Bootstrap
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
