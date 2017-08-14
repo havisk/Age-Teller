@@ -26,7 +26,7 @@ class App extends Component {
         return (
             <div className="App">
                 <Form inline>
-                    <h2>Input Your Birthday!</h2>
+                    <h2>Input Your Birthdate!</h2>
                     <FormControl
                         type="date"
                         onChange={event =>
